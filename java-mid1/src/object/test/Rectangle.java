@@ -14,7 +14,7 @@ public class Rectangle {
 
     @Override
     public String toString() {
-        111111111111
+        
         return "Rectangle{" +
                 "width=" + width +
                 ", height=" + height +

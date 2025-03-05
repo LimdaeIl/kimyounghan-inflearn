@@ -7,7 +7,7 @@ public class StartTest4Main {
 
     Thread threadA = new Thread(new PrintWork("A", 1000));
     Thread threadB = new Thread(new PrintWork("B", 500));
-    
+
     threadA.start();
     threadB.start();
   }

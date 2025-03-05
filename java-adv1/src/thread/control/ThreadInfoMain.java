@@ -22,6 +22,6 @@ public class ThreadInfoMain {
     log("mainThread.getName(): " + myThread.getName());
     log("mainThread.getPriority(): " + myThread.getPriority());
     log("mainThread.getThreadGroup(): " + myThread.getThreadGroup());
-    log("mainThread.getState(): " + myThread.getState()); 
+    log("mainThread.getState(): " + myThread.getState());
   }
 }
